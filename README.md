@@ -11,7 +11,11 @@ download link: https://www.kaggle.com/datasets/sohier/large-purchases-by-the-sta
 
 # Project Structure
 chatbot_app.py: Main chatbot application code for running with Streamlit.
+
 model_training.ipynb: Jupyter notebook for data preprocessing, feature engineering, and model training.
+
 logistic_regression_model.pkl: Pre-trained logistic regression model for intent prediction.
+
 tfidf_vectorizer.pkl: TF-IDF vectorizer for text transformation.
+
 README.md: Project documentation.
